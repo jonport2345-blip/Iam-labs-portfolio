@@ -16,16 +16,17 @@ Created a user and assigned group-based access in LDAP.
 
 ## Outcome
 Successfully implemented user creation and group-based access control in LDAP.
+
 ## 📸 Screenshots
 
-### User Creation
-![User Creation](IMG_0946.jpeg)
+### 1. Login Page
+![Login](IMG_0946.jpeg)
 
-### User Profile
-![User Profile](IMG_0948.jpeg)
+### 2. User Created
+![User Created](IMG_0948.jpeg)
 
-### Group Creation
-![Group Creation](IMG_0950.jpeg)
+### 3. Group Created
+![Group Created](IMG_0950.jpeg)
 
-### Group Membership (RBAC Applied)
+### 4. User Assigned to Group (RBAC Applied)
 ![Group Membership](IMG_0952.jpeg)
