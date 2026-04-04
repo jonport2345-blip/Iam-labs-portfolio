@@ -47,8 +47,7 @@ Implement role-based access control (RBAC) using Microsoft Entra ID by creating 
 
 ## Screenshots
 
-#![User Creation]
-
+#![User Creation](./IMG_233A01A1-2B19-4910-8209-5674DD2113A3.jpeg)
 
 #![Group Creation](.IMG_233A01A1-2B19-4910-8209-5674DD2113A3.jpeg)
 
