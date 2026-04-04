@@ -50,7 +50,7 @@ Implement role-based access control (RBAC) using Microsoft Entra ID by creating 
 #![User Creation]
 
 
-#![Group Creation](./https://raw.githubusercontent.com/jonport2345-blip/Iam-labs-portfolio/refs/heads/main/Lab-02-Azure-RBAC/IMG_233A01A1-2B19-4910-8209-5674DD2113A3.jpeg)
+#![Group Creation](.IMG_233A01A1-2B19-4910-8209-5674DD2113A3.jpeg)
 
 
 !![Group Membership](.https://raw.githubusercontent.com/jonport2345-blip/Iam-labs-portfolio/refs/heads/main/Lab-02-Azure-RBAC/IMG_233A01A1-2B19-4910-8209-5674DD2113A3.jpeg)
