@@ -47,18 +47,13 @@ Implement role-based access control (RBAC) using Microsoft Entra ID by creating 
 
 ## Screenshots
 
-### User Creation
-![User Creation](./IMG_0951.jpeg)
+#![User Creation](./IMG_34748552-5668-483F-8874-0CD1060C.jpeg)
 
-### Group Creation
-![Group Creation](./IMG_0952.jpeg)
+#![Group Creation](./IMG_8B3D4B15-0A52-4D50-A41B-FB34950E.jpeg)
 
-### Group Membership
-![Group Membership](./IMG_0952.jpeg)
+![Group Membership](./IMG_233A01A1-2B19-4910-8209-5674DD211.jpeg)
 
-### Role Assignment
-![Role Assignment](./IMG_0948.jpeg)
-
+![Role Assignment](./IMG_3B69EB5A-F392-4FEA-89FD-6AD86FFC.jpeg)
 ---
 
 ## Outcome
