@@ -52,19 +52,22 @@ Create a custom IAM policy to control access to a specific S3 bucket using least
 
 ---
 
-## Screenshots
+#### Screenshots
 
 ### S3 Bucket Created
-![S3 Bucket](./IMG_XXXX.jpeg)
+![S3 Bucket](./IMG_1019.jpeg)
 
-### Custom Policy Created
-![Custom Policy](./IMG_XXXX.jpeg)
+### IAM Users
+![IAM Users](./IMG_1021.jpeg)
 
 ### Policy Attached to Group
-![Policy Attached](./IMG_XXXX.jpeg)
+![Group Policy](./IMG_1022.jpeg)
 
-### Bucket Objects (Optional)
-![Bucket Objects](./IMG_XXXX.jpeg)
+### Custom Policy Created
+![Custom Policy](./IMG_1023.jpeg)
+
+### S3 Bucket (Empty View)
+![S3 Bucket Empty](./IMG_1024.jpeg)
 
 ---
 
