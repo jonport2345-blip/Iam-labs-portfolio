@@ -45,7 +45,8 @@ Implement Multi-Factor Authentication (MFA) to strengthen user authentication se
 
 
 ### Multi-Factor Authentication (MFA Enabled)
-![MFA Enabled](./IMG_F38C58BD-DBAC-4481-8720-95C881811F9B.jpeg)
+![MFA Enabled](./IMG_DB664339-2345-4F8C-8024-7AF75C1ABDB4.jpeg)
+
 
 ---
 
