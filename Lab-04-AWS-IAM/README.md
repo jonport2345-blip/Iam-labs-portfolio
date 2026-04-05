@@ -54,16 +54,16 @@ Create IAM users, organize them into groups, and assign permissions using least 
 ### Screenshots
 
 ### IAM Dashboard
-![IAM Dashboard](./IMG_1017.jpeg)
+![IAM Dashboard](./IMG_1014.jpeg)
 
 ### Users Created
-![Users Created](./IMG_1016.jpeg)
+![Users Created](./IMG_1015.jpeg)
 
 ### Group Created
-![Group Created](./IMG_1015.jpeg)
+![Group Created](./IMG_1016.jpeg)
 
 ### Group Membership
-![Group Membership](./IMG_1014.jpeg)
+![Group Membership](./IMG_1017.jpeg)
 
 ---
 
