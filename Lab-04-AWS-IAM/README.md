@@ -51,20 +51,19 @@ Create IAM users, organize them into groups, and assign permissions using least 
 
 ---
 
-## Screenshots
+### Screenshots
 
 ### IAM Dashboard
-![IAM Dashboard](Lab-04-AWS-IAM/IMG_1014.jpeg)
-
+![IAM Dashboard](./IMG_1017.jpeg)
 
 ### Users Created
-![Users Created](./aws-users-created.jpeg)
+![Users Created](./IMG_1016.jpeg)
 
 ### Group Created
-![Group Created](./aws-group-created.jpeg)
+![Group Created](./IMG_1015.jpeg)
 
 ### Group Membership
-![Group Membership](./aws-group-membership.jpeg)
+![Group Membership](./IMG_1014.jpeg)
 
 ---
 
