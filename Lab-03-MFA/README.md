@@ -40,7 +40,8 @@ Implement Multi-Factor Authentication (MFA) to strengthen user authentication se
 ![Conditional Access 1](./IMG_28DC88FE-81BF-4135-9B07-8B6C62AC5FD5.jpeg)
 
 ### Conditional Access (License Requirement)
-![Conditional Access 2](./IMG_E2D50173-B548-4F04-BFED-CBB37E113F3F.jpeg)
+![Conditional Access 2](./IMG_4CA892F0-193B-4CCD-8127-B49224FCFB26.jpeg)
+
 
 ### Multi-Factor Authentication (MFA Enabled)
 ![MFA Enabled](./IMG_F38C58BD-DBAC-4481-8720-95C881811F9B.jpeg)
