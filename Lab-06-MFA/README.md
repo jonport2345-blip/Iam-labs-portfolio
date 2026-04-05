@@ -23,23 +23,19 @@ Enhance account security by enabling Multi-Factor Authentication (MFA) for root 
 - Account Protection
 - Authentication Layers
 
----
-
-## Screenshots
+---## Screenshots
 
 ### IAM Dashboard (Security Status)
-![IAM Dashboard](./IMG_1019.jpeg)
+![IAM Dashboard](./IMG_1027.jpeg)
 
 ### IAM User MFA Enabled
-![IAM User MFA](./IMG_1021.jpeg)
+![IAM User MFA](./IMG_1028.jpeg)
 
 ### MFA Login Prompt
-![MFA Login](./IMG_1022.jpeg)
+![MFA Login](./IMG_1031.jpeg)
 
 ### Root Account MFA Enabled
-![Root MFA](./IMG_1023.jpeg)
-
----
+![Root MFA](./IMG_1032.jpeg)
 
 ## Result
 
