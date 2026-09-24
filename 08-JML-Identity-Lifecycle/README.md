@@ -164,26 +164,36 @@ The **Leaver** process demonstrates the importance of promptly disabling identit
 
 ---
 
+---
+
 ## 📸 Lab Evidence
 
-Screenshots documenting each stage of the lifecycle will be added here:
+### 🟢 Joiner — Identity Provisioning
 
-### Joiner
-- User identity creation
-- Help Desk job attributes
-- HelpDesk-Tier1 group membership
+Created a new workforce identity for **Marcus Johnson** as a Help Desk Analyst and provisioned the appropriate Tier 1 access through group membership.
 
-### Mover
-- Job title changed to SOC Analyst
-- HelpDesk-Tier1 access removed
-- SOC-Tier1-Readonly access assigned
+![Joiner - User Created](IMG_2352.jpeg)
 
-### Leaver
-- Account disabled
-- SOC group membership removed
-- Final state showing zero group memberships
+![Joiner - Help Desk Access](IMG_2353.jpeg)
+
+### 🔵 Mover — Role & Access Modification
+
+Simulated an internal role change from **Help Desk Analyst → SOC Analyst**. Updated the user's job information and transitioned access from the Help Desk security group to the SOC Tier 1 group.
+
+![Mover - SOC Analyst](IMG_2354.jpeg)
+
+![Mover - SOC Access](IMG_2355.jpeg)
+
+### 🔴 Leaver — Access Revocation
+
+Simulated employee offboarding by disabling the user account and removing group memberships to revoke organizational access.
+
+![Leaver - Account Disabled](IMG_2356.jpeg)
+
+![Leaver - Final Access Validation](IMG_2357.jpeg)
 
 ---
+
 
 ## 🎯 Skills Demonstrated
 
