@@ -180,48 +180,43 @@ The project provided hands-on experience designing, implementing, testing, and v
 
 ## Evidence and Screenshots
 
-The following screenshots document the configuration, testing, and validation performed during this project.
+The following screenshots document the configuration, access-control testing, MFA enforcement, and System Log validation performed during this project.
 
-### 1. Apex Finance Portal – OIDC Configuration
-Shows the Apex Finance Portal configured as an OpenID Connect application in Okta.
+### 1. High-Security MFA Policy
 
-![Apex Finance Portal OIDC Configuration](screenshots/01-oidc-configuration.png)
+Shows the enabled **Apex- High Security MFA** rule requiring two factor types and stronger authentication controls.
 
-### 2. High-Security Authentication Policy
-Shows the dedicated **Apex- High Security Applications** authentication policy created for sensitive applications.
+![High-Security MFA Policy](screenshots/857ABE50-5C27-44C6-A966-9644F859F106.png)
 
-![High Security Authentication Policy](screenshots/02-high-security-policy.png)
+### 2. Test User – Apex Finance Portal Assignment
 
-### 3. MFA Policy Rule
-Shows the **Apex- High Security MFA** rule requiring two factor types and stronger authentication controls.
+Shows the Ava Williams test identity assigned to the **Apex Finance Portal** for access-control validation.
 
-![MFA Policy Rule](screenshots/03-mfa-policy-rule.png)
+![Apex Finance Portal Assignment](screenshots/D3393CF6-6C6B-4358-ADD6-16DB32CE5B7C.png)
 
-### 4. Application Policy Assignment
-Shows the Apex Finance Portal associated with the high-security authentication policy.
+### 3. Unauthorized Access – 403 Forbidden
 
-![Application Policy Assignment](screenshots/04-policy-application.png)
+Demonstrates negative authorization testing. An unauthorized access attempt resulted in a **403 Access Forbidden** response.
 
-### 5. Test User – Ava Williams
-Shows the test identity created for access-control validation.
+![403 Access Forbidden](screenshots/9C942316-BFA3-4999-A498-32C7145CB463.png)
 
-![Test User](screenshots/05-test-user.png)
+### 4. Unauthorized Access – System Log Evidence
 
-### 6. Apex Finance Portal Assignment
-Shows Ava Williams explicitly assigned to the Apex Finance Portal.
+Shows Okta System Log events recording failed unauthorized access attempts, providing audit evidence that the access restriction operated as expected.
 
-![Application Assignment](screenshots/06-application-assignment.png)
+![Unauthorized Access System Log](screenshots/7A5F7015-4595-4BC2-84A0-D48ED10D7C49.png)
 
-### 7. Unauthorized Access – 403 Forbidden
-Shows the denied access attempt during authorization testing.
+### 5. Authentication and OIDC System Log Evidence
 
-![403 Access Forbidden](screenshots/07-403-access-denied.png)
+Shows successful OIDC authorization and token activity captured in the Okta System Log during validation.
 
-### 8. Okta System Log Evidence
-Shows Okta System Log events used to investigate and validate authentication and authorization activity.
+![OIDC System Log Evidence](screenshots/41C0C49E-EA0E-40F9-BC5C-8A8BBC33FE82.jpeg)
 
-![System Log Evidence](screenshots/08-system-log.png)
+### 6. MFA and Authentication Validation
 
+Shows successful user authentication, MFA activity, sign-on policy evaluation, and OIDC token events used to validate the hardened authentication controls.
+
+![MFA Authentication Validation](screenshots/377A1801-FD94-45D4-928C-94DF5F5920F0.png)
 ## Project Outcome
 
 Successfully implemented and validated a hardened authentication model for a sensitive OIDC application using Okta.
