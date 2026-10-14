@@ -54,8 +54,10 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 ![SAML Configuration](screenshots/DE3C5D88-A3D5-4DB6-BAA3-532BFE73FA85.png)
 
 
-### 2. Okta Application Sign-On Settings
-![Okta Application Sign-On](screenshots/D469089C-1BD0-4ED1-88B3-40A497FC54C1.jpeg)
+#### 2. Okta Application Sign-On Settings
+![Okta Application Sign-On Settings](screenshots/D469089C-1BD0-4ED1-88B3-40A497FC54C1.png)
+
+
 
 ### 3. Ava Williams Application Assignment
 ![User Assignment](screenshots/41B2EC5D-49FC-4F58-A85E-45289B2BEB7F.jpeg)
