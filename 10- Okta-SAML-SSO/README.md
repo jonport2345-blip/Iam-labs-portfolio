@@ -49,7 +49,22 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 - Authentication, authorization, and attribute mapping should be validated separately.
 
 ## Evidence
-Screenshots of application configuration, user assignment, metadata validation, System Logs, and the corrected SAML response will be added to the `screenshots/` directory.
+
+### 1. SAML Configuration
+![SAML Configuration](screenshots/DE3C5D88-A3D5-4DB6-BAA3-532BFE73FA85.png)
+
+
+### 2. Okta Application Sign-On Settings
+![Okta Application Sign-On](screenshots/D469089C-1BD0-4ED1-88B3-40A497FC54C1.jpeg)
+
+### 3. Ava Williams Application Assignment
+![User Assignment](screenshots/41B2EC5D-49FC-4F58-A85E-45289B2BEB7F.jpeg)
+
+### 4. Okta IdP Metadata Added to FrostID
+![IdP Metadata](screenshots/C1F636CE-AAEF-44F5-A4CF-D2CEDF784695.jpeg)
+
+### 5. Okta System Log — Successful SSO
+![Okta System Log](screenshots/IMG_2693.jpeg)
 
 ## Outcome
 Successfully configured and validated SAML federation between Okta and a test Service Provider, identified and corrected an application username mapping issue, and verified the corrected SAML assertion.
