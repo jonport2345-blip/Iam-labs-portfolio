@@ -69,10 +69,7 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 
 
 ### 5. Okta System Log — Successful SSO
-![Okta System Log — Successful SSO]
-(screenshots/05-okta-system-log-success.jpeg.HEICg)
-
-
+![Okta System Log — Successful SSO](screenshots/05-okta-system-log-success.jpg)
 
 
 
