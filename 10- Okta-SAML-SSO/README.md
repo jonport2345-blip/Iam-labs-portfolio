@@ -68,8 +68,9 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 ![Okta IdP Metadata Added to FrostID](screenshots/C1F636CE-AAEF-44F5-A4CF-D2CEDF784695.png)
 
 
-### 5. Okta System Log — Successful SSO
+##### 5. Okta System Log — Successful SSO
 ![Okta System Log — Successful SSO](screenshots/IMG_2693.jpeg)
+
 
 
 
