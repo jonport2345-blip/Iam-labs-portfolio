@@ -59,8 +59,10 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 
 
 
-### 3. Ava Williams Application Assignment
-![User Assignment](screenshots/41B2EC5D-49FC-4F58-A85E-45289B2BEB7F.jpeg)
+##### 3. Ava Williams Application Assignment
+![Ava Williams Application Assignment](screenshots/41B2EC5D-49FC-4F58-A85E-45289B2BEB7F.png)
+
+
 
 ### 4. Okta IdP Metadata Added to FrostID
 ![IdP Metadata](screenshots/C1F636CE-AAEF-44F5-A4CF-D2CEDF784695.jpeg)
