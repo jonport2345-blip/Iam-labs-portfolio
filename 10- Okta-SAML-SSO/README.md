@@ -69,7 +69,9 @@ Updated the application-specific username to `ava.williams@jonathanporter.dev`, 
 
 
 ### 5. Okta System Log — Successful SSO
-![Okta System Log](screenshots/IMG_2693.jpeg)
+![Okta System Log — Successful SSO](screenshots/IMG_2693.jpeg)
+
+
 
 ## Outcome
 Successfully configured and validated SAML federation between Okta and a test Service Provider, identified and corrected an application username mapping issue, and verified the corrected SAML assertion.
