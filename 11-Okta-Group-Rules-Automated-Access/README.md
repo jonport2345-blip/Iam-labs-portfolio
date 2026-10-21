@@ -86,7 +86,16 @@ When the user's department changed to HR:
 
 ## Evidence
 
-Screenshots will be added to the `screenshots/` directory.
+The following screenshots document the Okta Group Rules & Automated Access lab:
+
+1. User access before group assignment
+2. Apex-Finance Users group configuration
+3. Finance Department Auto Assignment rule
+4. Group rule preview and validation
+5. Automatic group membership
+6. Group-based SAML application assignment
+7. User application access verification
+8. Automated access removal and Okta System Log evidence.
 
 ## Outcome
 
