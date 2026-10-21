@@ -84,19 +84,31 @@ When the user's department changed to HR:
 - User profile changes can drive real-time access decisions.
 - System Logs provide critical audit evidence for IAM lifecycle events.
 
+
 ## Evidence
 
-The following screenshots document the Okta Group Rules & Automated Access lab:
+The following screenshots document the Okta Group Rules & Automated Access lab.
 
-1. User access before group assignment
-2. Apex-Finance Users group configuration
-3. Finance Department Auto Assignment rule
-4. Group rule preview and validation
-5. Automatic group membership
-6. Group-based SAML application assignment
-7. User application access verification
-8. Automated access removal and Okta System Log evidence.
+### Screenshot 1
+![Lab Evidence 1](screenshots/077500F3-EAD6-46B8-857D-3C1D9BF1D841.png)
 
-## Outcome
+### Screenshot 2
+![Lab Evidence 2](screenshots/216087E9-D282-44BE-A23E-D81C4D262F26.png)
 
-Successfully implemented and validated an automated Okta access lifecycle workflow using user attributes, group rules, group-based application assignment, and lifecycle-driven access revocation.
+### Screenshot 3
+![Lab Evidence 3](screenshots/56C18C9E-D281-4650-AF2F-ACC4CB3C165E.png)
+
+### Screenshot 4
+![Lab Evidence 4](screenshots/76ACB269-484C-49B1-9BF9-6923ADF2CD62.jpeg)
+
+### Screenshot 5
+![Lab Evidence 5](screenshots/8BB4B25D-F9A3-4A28-9381-57E0C2D535C1.jpeg)
+
+### Screenshot 6
+![Lab Evidence 6](screenshots/C5B329F0-43E7-4207-82D9-4D17948CCED3.png)
+
+### Screenshot 7
+![Lab Evidence 7](screenshots/D9BC3599-E005-441C-9684-392745280D6A.png)
+
+### Screenshot 8
+![Lab Evidence 8](screenshots/DE1CB7EF-8327-4FBB-85EF-1859905DBC5F.png)
